@@ -1,0 +1,53 @@
+[project]
+# Installation:
+#
+# $ pip install worldvision
+#
+# PyPi URL: https://pypi.org/project/worldvision/
+
+# Name
+name = "worldvision"
+
+# Version
+version = "0.0.11"
+
+# Short description
+description = "Calculate real world distance, angle, and more, just from the video/image"
+
+# readme file
+readme = "README.md"
+
+# Python version requirement
+requires-python = ">=3.7"
+
+# License
+license = {file = "LICENSE.txt"}
+
+# Keywords
+keywords = ["worldvision", "math", "geometry", "distance", "angle", "speed", "computer vision", "vision", "ai"]
+
+# Author(s)
+authors = [
+  {name = "Jatin Jain", email = "jatin@exact.codes" }
+]
+
+# Maintainer(s)
+maintainers = [
+  {name = "Jatin Jain", email = "jatin@exact.codes" }
+]
+
+# Dependencies
+dependencies = [
+  "python-math"
+]
+
+# URLs
+[project.urls]
+"Homepage" = "https://github.com/heyJatin/worldvision"
+"Bug Reports" = "https://github.com/heyJatin/worldvision/issues"
+
+[tool.setuptools]
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"

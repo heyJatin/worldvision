@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/worldvision/__init__.py
+src/worldvision/calculations.py
+src/worldvision/camera.py
+src/worldvision.egg-info/PKG-INFO
+src/worldvision.egg-info/SOURCES.txt
+src/worldvision.egg-info/dependency_links.txt
+src/worldvision.egg-info/requires.txt
+src/worldvision.egg-info/top_level.txt
